@@ -47,8 +47,10 @@ END
 In order to generate TINKER input file, we have to focus only on the atoms.
 Let me explain the type of atoms for this case: The best way to look for types of atoms is by viewing this PDB file in a Molecular Visulization program.
 
-By doing so we can see that, **C1, C4 and C5** are of one type while **C2 and C3** are of different type of Carbon. Similarly **O1, O4 and O5** are of one type and **O2 and O3** are of another.
+By doing so we can see that, **C1, C4 and C5** are of one type while **C2 and C3** are of different type of Carbon. Similarly **O1, O4 and O5** are of one type and **O2 and O3** are of another and **H1 and H2** are of same type.
 
+Now number of atom types needed for the code to work properly:
+a.  
 
 
 HOW TO RUN?
